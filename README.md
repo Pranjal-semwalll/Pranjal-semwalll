@@ -1,4 +1,4 @@
-gi## Hi there! 👋 I'm [Pranjal]
+Hi there! 👋 I'm Pranjal Semwal
 
 ![Developer Header](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
@@ -13,7 +13,7 @@ Focused, energetic, and ready to bring ideas to life through code.
 - 🧠 Exploring Data Science and Machine Learning with real-world datasets
 - 🚀 Building Python algorithmic solutions and full-stack/data-driven applications
 - 🤝 Looking to collaborate on open-source projects, hackathons, and Python/ML repositories
-- 🎯 Fun fact: [Insert your favorite hobby or tech fact here]
+
 
 ---
 
@@ -35,15 +35,12 @@ Focused, energetic, and ready to bring ideas to life through code.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-0077B5?style=flat-square&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
+!
 ---
 
 ## GitHub Stats & Activity
 
-### GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true)
+
 
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
