@@ -1,5 +1,4 @@
-Optimizing tool selection...```markdown
-## Hi there! 👋 I'm [Pranjal]
+gi## Hi there! 👋 I'm [Pranjal]
 
 ![Developer Header](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
